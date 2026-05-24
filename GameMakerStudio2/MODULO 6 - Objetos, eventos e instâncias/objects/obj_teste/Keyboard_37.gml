@@ -1,0 +1,6 @@
+// Andar esquerda
+
+x -= velocidade
+
+
+

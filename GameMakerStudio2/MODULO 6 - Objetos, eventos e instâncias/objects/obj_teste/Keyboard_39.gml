@@ -1,0 +1,5 @@
+// Andar direita
+
+x += velocidade
+
+

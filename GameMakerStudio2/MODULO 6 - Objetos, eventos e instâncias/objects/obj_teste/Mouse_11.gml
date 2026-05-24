@@ -1,0 +1,6 @@
+// mouse saindo
+
+//nome = "toni"
+
+
+

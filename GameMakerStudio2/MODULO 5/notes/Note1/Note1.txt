@@ -1,0 +1,3 @@
+show_message("str");
+para mostrar mensagem
+show_question ("str");
